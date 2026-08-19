@@ -4,3 +4,4 @@ venv/
 *.sqlite
 *.db
 **/__pycache__/
+!media/avatars/user.png
